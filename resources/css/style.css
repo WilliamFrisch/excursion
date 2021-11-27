@@ -1,0 +1,25 @@
+h1 {
+    color:white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+header a {
+  color: aquamarine;
+  font-size: 16px
+    
+}
+
+footer a {
+    color: aquamarine;
+    font-size: 16px
+      
+  }
